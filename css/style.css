@@ -1,0 +1,12 @@
+.container {
+  position: absolute;
+  width: 100%;
+}
+
+.center {
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+  display: block;
+  top: 25vh;
+}
