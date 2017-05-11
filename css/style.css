@@ -38,6 +38,7 @@ pre {
 .container {
   position: absolute;
   width: 100%;
+  top: 25vh;
 }
 
 /*p {
@@ -52,5 +53,4 @@ pre {
   position: relative;
   text-align: center;
   display: block;
-  top: 25vh;
 }
