@@ -35,11 +35,11 @@ pre {
   margin: 0 auto;
 }
 
-.container {
+/*.container {
   position: absolute;
   width: 100%;
   top: 25vh;
-}
+}*/
 
 p {
   position: relative;
