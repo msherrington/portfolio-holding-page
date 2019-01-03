@@ -21,10 +21,17 @@ body {
   color: #999999;
 }
 
-#g {
+/* #g {
   font-family: 'Lato', sans-serif;
   font-size: 74px;
   margin-right: 2px;
+} */
+
+#g {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 74px;
+  margin-right: 3px;
+  font-weight: 100;
 }
 
 pre {
